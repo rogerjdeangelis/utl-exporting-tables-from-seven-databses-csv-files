@@ -2,11 +2,11 @@
 
 utl-exporting-tables-from-sevenl-databses-csv-files
 
-    %let pgm=utl-utl-exporting-tables-from-seven--=to-csv-files;
+    %let pgm=utl-utl-exporting-tables-from-seven--to-csv-files;
 
     %stop_submission;
 
-    utl-exporting-tables-from-seven--=to-csv-files
+    utl-exporting-tables-from-seven-to-csv-files
     
     github
     https://github.com/rogerjdeangelis/utl-exporting-tables-from-seven-databses-to-csv-files
