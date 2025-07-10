@@ -2,11 +2,12 @@
 
 utl-exporting-tables-from-sevenl-databses-csv-files
 
-    %let pgm=utl-importing-tables-from-excel-access-postgreSQL-mySQL-sqlServer-and-Oracle-without-sas-access;
+    %let pgm=utl-utl-exporting-tables-from-seven--=to-csv-files;
 
     %stop_submission;
 
-    Importing tables from excel access postgreSQL mySQL sqlServer and Oracle without sas access
+    utl-exporting-tables-from-seven--=to-csv-files
+
 
     SOAPBOX ON
 
