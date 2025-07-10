@@ -1,5 +1,7 @@
-# utl-importing-tables-from-excel-access-postgreSQL-mySQL-sqlServer-and-Oracle-without-sas-access
-Importing tables from excel access postgreSQL mySQL sqlServer and Oracle without sas access
+# utl-exporting-tables-from-sevenl-databses-csv-files
+
+utl-exporting-tables-from-sevenl-databses-csv-files
+
     %let pgm=utl-importing-tables-from-excel-access-postgreSQL-mySQL-sqlServer-and-Oracle-without-sas-access;
 
     %stop_submission;
